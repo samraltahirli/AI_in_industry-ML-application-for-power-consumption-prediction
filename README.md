@@ -1,5 +1,5 @@
 
-# ML-application-for-power-consumption-prediction
+# ML applications for power consumption prediction
 
 
 
