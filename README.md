@@ -1,5 +1,6 @@
 
-# Food Recognition Challenge
+# ML-application-for-power-consumption-prediction
+
 
 
 This project  aimed the building of  models to predict energy consumption.I used the result of a ten-year-long project to design a monitoring framework (EXAMON) deployed at the Italian supercomputers at CINECA datacenter as dataset.
