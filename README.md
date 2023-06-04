@@ -10,7 +10,7 @@ Regression models are applied in this project
 
      1.Linear Regression
    
-     2. Lasso
+     2.Lasso
 
      3.Ridge
 
